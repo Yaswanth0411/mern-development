@@ -1,0 +1,24 @@
+{
+  "name": "mern-development",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaswanth0411/mern-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaswanth0411/mern-development/issues"
+  },
+  "homepage": "https://github.com/Yaswanth0411/mern-development#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
