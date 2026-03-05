@@ -66,7 +66,18 @@ function checkBalance(id) {
     console.log(customer);
 }
 
+function showTransactions(id) {
+    const customer = customers.find((customer) => customer.id === id);
+    if(customer.id==id){
+       return customer.transactions;
+    }
+    else{
+      
+    }
+}
+
 deposit(1, 1500);
 checkBalance(1)
 deposit(1, 1000);
 checkBalance(1)
+showTransactions(1);
