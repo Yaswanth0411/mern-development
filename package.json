@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Yaswanth0411/mern-development#readme",
   "dependencies": {
+    "ejs": "^4.0.1",
     "express": "^5.2.1"
   }
 }
